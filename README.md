@@ -1,8 +1,8 @@
 - 👋 Hi, I’m John Mitchell
 - 👀 I’m interested in learning and understanding coding.
-- 🌱 I’m currently learning HTML, CSS & Javascypt
+- 🌱 I’m currently learning HTML, CSS, Javascypt & Python
 - 💞️ I’m looking to collaborate on Education and fun projects to start my coding journey
-- 📫 How to reach me  +44 7394 548527
+- 📫 How to reach me  +44 7394 548527 & mitch3012.jcm@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I lived in Brooklyn, NY, USA for nine years some say when I am angry I have Brooklyn accent.
 
