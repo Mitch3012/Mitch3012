@@ -14,6 +14,8 @@ I'm currently developing my skills in:
 * **HTML & CSS**
 * **Python**
 * **Git & GitHub**
+* **Firebase**
+* **Firestore**
 
 I'm also completing a **Full-Stack Development bootcamp**, with the goal of continuing to build my frontend skills before progressing further into backend development.
 
