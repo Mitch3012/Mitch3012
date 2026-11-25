@@ -44,7 +44,7 @@ I'm looking forward to working in a professional development team, learning from
 
 ## 📫 Get in touch
 
-📧 **Email:** [mitch3012.jcm@gmail.com](mailto:mitch3012.jcm@gmail.com)
+📧 **Email:** [john@johnmitchelldev.co.uk](mailto:john@johnmitchelldev.co.uk)
 
 ## ⚡ A little about me
 
